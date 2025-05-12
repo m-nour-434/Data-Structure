@@ -97,15 +97,15 @@ Projenin amacı, derste öğrenilen **veri yapılarının** gerçek bir senaryo 
 
 ## 📸 Ekran Görüntüleri
 
-![لقطة شاشة 2025-05-13 002259](https://github.com/user-attachments/assets/c04b06a5-2bcf-4e15-86fb-da524e205ab7)
+![1](https://github.com/user-attachments/assets/dd256d76-1026-4373-85b0-1d4726491632)
 
-![لقطة شاشة 2025-05-13 002309](https://github.com/user-attachments/assets/d4de23d9-98f0-4aed-a3d5-0f350d72dd7e)
+![2](https://github.com/user-attachments/assets/3226035c-b48c-424a-a30c-0c85c18d506e)
 
-![لقطة شاشة 2025-05-13 002324](https://github.com/user-attachments/assets/d415cff4-9e57-45e6-aaf3-55e5c1a02bda)
+![3](https://github.com/user-attachments/assets/74fdde52-cb03-491b-a34d-047c9a1b237b)
 
-![لقطة شاشة 2025-05-13 002333](https://github.com/user-attachments/assets/7562ed7f-2736-4826-9577-791d62f5cd45)
+![4](https://github.com/user-attachments/assets/4509d437-42ca-4653-9588-d7a217bb2e57)
 
-![لقطة شاشة 2025-05-13 002340](https://github.com/user-attachments/assets/48e6fe9a-468c-429f-81e5-793d6921d7c2)
+![5](https://github.com/user-attachments/assets/9e78e9de-7294-47d9-b1d6-60dc2eda88ba)
 
 
 
