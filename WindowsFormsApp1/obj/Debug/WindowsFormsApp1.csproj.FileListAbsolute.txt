@@ -1,0 +1,75 @@
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostFeedForm.resources
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyPostsForm.resources
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostEkleForm.resources
+C:\Users\sabre\OneDrive\Desktop\veri yapilari projesi\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostFeedForm.resources
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyPostsForm.resources
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostEkleForm.resources
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SingupForm.resources
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostFeedForm.resources
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyPostsForm.resources
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostEkleForm.resources
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SingupForm.resources
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Naila\Desktop\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.filling_Error.resources
+C:\Users\sabre\OneDrive\Desktop\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.filling_Error.resources
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostFeedForm.resources
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyPostsForm.resources
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostEkleForm.resources
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SingupForm.resources
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.filling_Error.resources
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Naila\Desktop\vyproject\123\sosyalmedya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostFeedForm.resources
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyPostsForm.resources
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostEkleForm.resources
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SingupForm.resources
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.filling_Error.resources
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Naila\Desktop\Data-Structure-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
