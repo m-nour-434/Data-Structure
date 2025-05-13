@@ -49,7 +49,7 @@ Projenin amacı, derste öğrenilen **veri yapılarının** gerçek bir senaryo 
 
 ## 🧪 Algoritma Analizi
 
-- **Linked List** vs Array: Linked List ile gönderi ekleme ve silme işlemleri O(1) süreyle hızlıca yapılır. Bu, dinamik akışlarda daha etkilidir.
+- **Linked List**: Linked List ile gönderi ekleme ve silme işlemleri O(1) süreyle hızlıca yapılır. Bu, dinamik akışlarda daha etkilidir.
 - **Hash Table**: Kullanıcı adı ile O(1) erişim sağlanır. Kullanıcı doğrulama çok hızlı gerçekleşir.
 ---
 
