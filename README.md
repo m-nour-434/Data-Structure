@@ -38,6 +38,8 @@ Projenin amacı, derste öğrenilen **veri yapılarının** gerçek bir senaryo 
 |-------------|----------------|
 | **Linked List** | Gönderilerin sıralı biçimde tutulması |
 | **Hash Table** | Kullanıcı kayıt ve giriş bilgilerinin saklanması |
+| **ArrayList** | postlari gostermek icin |
+| **Stack** | postlari kaydetmek icin |
 
 
 
